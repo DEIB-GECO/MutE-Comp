@@ -15,6 +15,6 @@ In our application use case the analytical framework aims to identify key genomi
 
 - [05 - machine learning](05%20-%20machine%20learning): Contains the code to perform the machine learning-desired task and comparative evaluation: input matrix preparations, models training and testing.
 
-- [06 - feature importance analysis](06%20-%20feature%20importance%20analysis): Contains the notebooks in which feature importance analysis is performed on the best feature spaces and models.
+- [06 - feature importance analysis](06%20-%20feature%20importance%20analysis): Contains the code in which feature importance analysis is performed on the best feature spaces and models to identify key genomic alterations and candadiate therapeutic targets.
 
 Code parameters and file paths are listed and can be changed in the file [data.ini](data.ini), it can be read from Python with a `ConfigParser` object with `ExtendedInterpolation` and from shell with `source`. [read_ini.m](read_ini.m) and [read_ini.r](read_ini.r) contains function to read it in Matlab and R respectively.
