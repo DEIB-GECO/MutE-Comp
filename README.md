@@ -1,4 +1,4 @@
-## Machine Learning Strategies for Multi-omics Investigation of RAS-Associated Mutations in Colorectal Cancer
+## Comparative Analysis of Interpretable Feature Selection and Encoding Strategies for Mutational Data and Multi-Omics Integration in Predictive Tasks
 
 This project develops the computational pipeline of a comparative analytical framework that combines multiple driver gene and hotspot detection methods to derive different encoding options (selection strategies, selection schemes, resolution levels) and obtain many feature spaces from mutational data. Across them, machine learning classifiers are assessed to find overall the most promising feature spaces. Transcriptomic data are also integrated to study mutational contribution also in multi-omics settings. Lastly, feature importance analyses of the best feature spaces and classification models is used to identify and prioritize candidate gene targets for actionability search.
 In our application use case the analytical framework aims to identify key genomic mutations in RAS-mutated colorectal cancer patients.
