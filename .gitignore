@@ -1,0 +1,19 @@
+# because I finished free lfs github bandwith
+data/**
+
+# ? license
+MutClustSW_1.0.R
+
+# python cache with compiled python files
+**/__pycache__/**
+
+# others
+06 - feature importance analysis/06 - feature importance analysis - OLD.ipynb
+04 - hotspot identification/04  - hotspost output analysis_old.ipynb
+heatmaps copy.ipynb
+heatmaps.ipynb
+spiderplots.ipynb
+summary.ipynb
+prova.ipynb
+notes.txt
+questions.txt

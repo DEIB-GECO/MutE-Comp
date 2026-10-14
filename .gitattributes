@@ -1,0 +1,10 @@
+# use git-lfs for data because some file is too big for git
+data/** filter=lfs diff=lfs merge=lfs -text
+
+# linguist
+*.sh linguist-detectable
+*.m linguist-language=MATLAB
+*.ipynb linguist-generated
+
+# commit cleaned notebooks using the "strip-notebook-output" filter in .git/config file
+# *.ipynb filter=strip-notebook-output
